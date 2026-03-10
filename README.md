@@ -1,6 +1,8 @@
 # Create Your Own Virtual Life Form — Local Setup Guide
 
 A step-by-step guide to run **digital organism** simulations on your machine, inspired by whole-brain emulation (fruit fly, C. elegans) and the Eon / OpenWorm ecosystems. Optimized for **Windows**, with an **RTX 3090** and **Ryzen 16-core** in mind.
+<img width="2752" height="1536" alt="hf_20260310_010124_9961bbdb-4a15-4ace-8a29-923f4b1148a8" src="https://github.com/user-attachments/assets/a905b2e4-0b58-4389-b1b0-a81ee913bf74" />
+
 
 ---
 
@@ -87,4 +89,5 @@ eon/
 - OpenWorm: [openworm.org](https://openworm.org) | [WormSim](http://wormsim.org/) | [Geppetto](http://www.geppetto.org/)  
 - Fly brain: [Nature 2024 – Drosophila computational brain model](https://www.nature.com/articles/s41586-024-07763-9) | [FlyWire](https://flywire.ai)  
 - Fly body: [NeuroMechFly v2](https://neuromechfly.org) | [FlyGym](https://github.com/NeLy-EPFL/flygym)
+
 
