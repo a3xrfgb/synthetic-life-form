@@ -31,7 +31,7 @@ Optional:
 
 ### Step 2: Clone and run OpenWorm
 
-From `c:\Users\Ababiya\.cursor\eon`:
+From `c:\Users\USERNAME\.cursor\eon`:
 
 ```powershell
 .\scripts\setup_openworm.ps1
@@ -79,7 +79,7 @@ If you don’t have conda:
 
 ### Step 2: Clone Eon’s brain model and create environment
 
-From `c:\Users\Ababiya\.cursor\eon`:
+From `c:\Users\USERNAME\.eon\eon`:
 
 ```powershell
 .\scripts\setup_fly_brain.ps1
@@ -137,7 +137,7 @@ Use the same Miniconda (or Anaconda) as in Path B.
 
 ### Step 2: Clone FlyGym and create environment
 
-From `c:\Users\Ababiya\.cursor\eon`:
+From `c:\Users\USERNAME\.eon\eon`:
 
 ```powershell
 .\scripts\setup_flygym.ps1
@@ -221,3 +221,4 @@ For “create your own digital life form” quickly → **Path A**.
 For the “fruit fly brain in a machine” → **Path B**.  
 For the “fruit fly body in a simulator” → **Path C**.  
 For “brain + body” later → combine B + C with custom integration.
+
