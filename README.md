@@ -37,7 +37,7 @@ A step-by-step guide to run **digital organism** simulations on your machine, in
 ### Path A — OpenWorm (recommended first)
 
 ```powershell
-cd c:\Users\Ababiya\.cursor\eon
+cd c:\Users\eon\.eon\eon
 .\scripts\setup_openworm.ps1
 # Then run: .\scripts\run_openworm.ps1  (or use run.cmd from the cloned repo)
 ```
@@ -45,7 +45,7 @@ cd c:\Users\Ababiya\.cursor\eon
 ### Path B — Drosophila brain model
 
 ```powershell
-cd c:\Users\Ababiya\.cursor\eon
+cd c:\Users\USERNAME\.eon\eon
 .\scripts\setup_fly_brain.ps1
 # Then activate conda and run notebooks from brain_model repo (see STEP-BY-STEP-GUIDE.md)
 ```
@@ -53,7 +53,7 @@ cd c:\Users\Ababiya\.cursor\eon
 ### Path C — Fly body (FlyGym / NeuroMechFly v2)
 
 ```powershell
-cd c:\Users\Ababiya\.cursor\eon
+cd c:\Users\USERNAME\.eon\eon
 .\scripts\setup_flygym.ps1
 # Then: conda activate flygym  and run Python examples (see STEP-BY-STEP-GUIDE.md)
 ```
@@ -87,3 +87,4 @@ eon/
 - OpenWorm: [openworm.org](https://openworm.org) | [WormSim](http://wormsim.org/) | [Geppetto](http://www.geppetto.org/)  
 - Fly brain: [Nature 2024 – Drosophila computational brain model](https://www.nature.com/articles/s41586-024-07763-9) | [FlyWire](https://flywire.ai)  
 - Fly body: [NeuroMechFly v2](https://neuromechfly.org) | [FlyGym](https://github.com/NeLy-EPFL/flygym)
+
